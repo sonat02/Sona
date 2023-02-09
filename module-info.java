@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Sona
- *
- */
-module BankDetails {
-}
